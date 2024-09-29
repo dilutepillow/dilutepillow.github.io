@@ -1,6 +1,5 @@
 ---
 title: lives
-type: lives
 ---
 
 这里是我在页面

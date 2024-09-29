@@ -1,6 +1,5 @@
 ---
 title: about
-type: about
 ---
 
 ![](images/logo.png)
