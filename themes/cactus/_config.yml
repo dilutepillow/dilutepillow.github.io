@@ -15,7 +15,7 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  小记: /archives/
+  articles: /archives/
   我在: /lives/
   友链: /friends/
   about: /about/
