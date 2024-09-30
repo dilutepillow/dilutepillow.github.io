@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/图片测试.md",
+                "file": "source/about/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/图片测试.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/图片测试.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/图片测试.md"
+                "file": "source/about/index.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "b2dc6c45e17d4026",
   "lastOpenFiles": [
-    "source/_posts/人生因主动而广阔.md",
-    "source/_posts/hello-world.md",
     "source/_posts/图片测试.md",
+    "source/_posts/hello-world.md",
+    "source/_posts/人生因主动而广阔.md",
+    "source/_posts/笔记.md",
     "source/_posts/图片测试/img-20240930132042925.png",
     "source/_posts/图片测试",
     "2024-09-28.md",
