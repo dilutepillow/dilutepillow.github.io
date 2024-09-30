@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "5c1e2965ff893d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff8285473c4de500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63a4c008fd39fa6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/about/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "237d428047020e74",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c1025b56efdf76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f704613dcedfcbe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "603e1370bec71d18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a8ce1c62cf14e98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fa293de644f36dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "068377934b6eea48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab77799baefededb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/about/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4bf7b062b1698e25",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/about/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a3f6a7cce6320bc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8574b1408e05e499",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/about/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "63a4c008fd39fa6d",
+  "lastOpenFiles": [
+    "source/lives/index.md",
+    "source/friends/index.md",
+    "source/_posts/人生因主动而广阔.md"
+  ]
+}
