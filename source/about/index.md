@@ -9,8 +9,6 @@ title: 关于
 <br/>
 ## 一个神秘的传送门
 <br/>
-[Fermionorz](https://fermionorz.github.io/): 这是一个超人！
-
-
+[fermionorz](http://fermionorz.github.io/blog/) : 这是一个超人！
 
 
