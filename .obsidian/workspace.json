@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/人生就是潮起又落落落落.md",
+                "file": "source/about/index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/人生就是潮起又落落落落.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/人生就是潮起又落落落落.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/人生就是潮起又落落落落.md"
+                "file": "source/about/index.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b2dc6c45e17d4026",
   "lastOpenFiles": [
+    "source/_posts/人生就是潮起又落落落落.md",
     "source/_posts/笔记.md",
     "source/_posts/近日心情晴晴晴晴.md",
-    "source/_posts/人生就是潮起又落落落落.md",
     "source/about/index.md",
     "source/lives/index.md",
     "source/search/index.md",
