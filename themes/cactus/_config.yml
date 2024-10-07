@@ -17,7 +17,6 @@ nav:
   home: /
   articles: /archives/
   我在: /lives/
-  友链: /friends/
   about: /about/
   search: /search/
 #  projects: http://github.com/probberechts
@@ -110,7 +109,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/logo.png
+  url: https://avatars.githubusercontent.com/u/125887503?v=4
   gravatar: false
   grayout: true
 
