@@ -12,7 +12,7 @@ title: 关于
 
 <br>
 
-## 一个神秘的传送门
+## 神秘的传送门
 
 [fermionorz](http://fermionorz.github.io/blog/) : 这是一个超人！
 [Zayden](http://lures2019.github.io/) : Zaydenの树屋
