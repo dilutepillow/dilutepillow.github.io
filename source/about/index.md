@@ -9,5 +9,5 @@ title: 关于
 
 [fermionorz](http://fermionorz.github.io/blog/) : 这是一个超人！
 [Zayden](http://lures2019.github.io/) : Zaydenの树屋
-[mengfanjun](http://mfjblog.top) : mengfanjun的blog
+[mengfanjun](http://mfjblog.top) : 读书破万卷
 

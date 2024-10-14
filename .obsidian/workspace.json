@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/愿望成真了，希望六万年后还能够再见.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/愿望成真了，希望六万年后还能够再见.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/愿望成真了，希望六万年后还能够再见.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/about/index.md"
+                "file": "source/_posts/愿望成真了，希望六万年后还能够再见.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "b2dc6c45e17d4026",
   "lastOpenFiles": [
-    "source/_posts/人生就是潮起又落落落落.md",
-    "source/_posts/笔记.md",
     "source/_posts/近日心情晴晴晴晴.md",
     "source/about/index.md",
     "source/lives/index.md",
     "source/search/index.md",
+    "source/_posts/人生就是潮起又落落落落.md",
+    "source/_posts/愿望成真了，希望六万年后还能够再见.md",
+    "source/_posts/笔记.md",
     "scaffolds/post.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
