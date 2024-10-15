@@ -31,3 +31,11 @@
       href="<%- url_for('/lib/font-awesome/css/all.min.css') %>"
   /></noscript>
 <% } %>
+
+<% if (isCdnEnable('lxgw_font_css')) { %>
+  <%- getCdnLink('lxgw_font_css', {preload: true}) %>
+<% } %>
+
+<% if (isCdnEnable('firacode_font_css')) { %>
+  <%- getCdnLink('firacode_font_css', {preload: true}) %>
+<% } %>
