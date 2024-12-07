@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/12.7我并不是一个胆小的人.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/12.7我并不是一个胆小的人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/about/index.md",
+                "file": "source/_posts/12.7我并不是一个胆小的人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/about/index.md"
+                "file": "source/_posts/12.7我并不是一个胆小的人.md"
               }
             }
           }
@@ -161,14 +161,15 @@
   },
   "active": "b9d121236f1e0be2",
   "lastOpenFiles": [
-    "source/_posts/11.5二十四岁的开头.md",
-    "source/_posts/时间一去东流水哗哗哗哗哗.md",
     "source/_posts/愿望成真了，希望六万年后还能够再见.md",
-    "source/_posts/近日心情晴晴晴晴.md",
+    "source/_posts/时间一去东流水哗哗哗哗哗.md",
+    "source/_posts/人生就是潮起又落落落落.md",
+    "source/_posts/12.7我并不是一个胆小的人.md",
+    "source/_posts/11.5二十四岁的开头.md",
     "source/about/index.md",
+    "source/_posts/近日心情晴晴晴晴.md",
     "source/lives/index.md",
     "source/search/index.md",
-    "source/_posts/人生就是潮起又落落落落.md",
     "source/_posts/笔记.md",
     "scaffolds/post.md",
     "scaffolds/page.md",
