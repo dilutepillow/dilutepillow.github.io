@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/lives/index.md",
+                "file": "scaffolds/post.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,10 +173,10 @@
   },
   "active": "d51daec47391a40c",
   "lastOpenFiles": [
-    "source/_posts/5.1事事发生在眼前，因此只看见眼前.md",
-    "source/lives/《联结》.md",
-    "source/lives/index.md",
     "scaffolds/post.md",
+    "source/lives/index.md",
+    "source/lives/《联结》.md",
+    "source/_posts/5.1事事发生在眼前，因此只看见眼前.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
     "source/search/index.md",
