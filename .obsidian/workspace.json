@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fbc9b5b776f014c",
+            "id": "f32049c6c5013df4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/12.31就让所有的不愉快，都结束在这一天.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e429f8cbbb9527f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scaffolds/post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d51daec47391a40c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/about/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa2f0f760a8392d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/lives/index.md",
-                "mode": "source",
-                "source": false
+                "file": "source/_posts/2.5适合懒惰J人的日程规划.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/lives/index.md",
+                "file": "source/_posts/2.5适合懒惰J人的日程规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/lives/index.md",
+                "file": "source/_posts/2.5适合懒惰J人的日程规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/lives/index.md"
+                "file": "source/_posts/2.5适合懒惰J人的日程规划.md"
               }
             }
           }
@@ -183,22 +146,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "aa2f0f760a8392d6",
+  "active": "f32049c6c5013df4",
   "lastOpenFiles": [
-    "source/about/index.md",
+    "source/_posts/2.17在未知的恐惧面前，我选择先问问DeepSeek.md",
+    "source/_posts/12.31就让所有的不愉快，都结束在这一天.md",
+    "source/_posts/12.7我并不是一个胆小的人.md",
+    "source/_posts/11.5二十四岁的开头.md",
+    "source/_posts/2.5适合懒惰J人的日程规划.md",
+    "source/_posts/9.28笔记.md",
     "source/lives/index.md",
+    "source/about/index.md",
     "source/search/index.md",
     "source/lives/《联结》.md",
     "scaffolds/post.md",
-    "source/lives/index.md",
     "source/_posts/5.1事事发生在眼前，因此只看见眼前.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
     "source/_posts/7.5演唱会-梦境清醒了，生活继续.md",
-    "source/_posts/2.17在未知的恐惧面前，我选择先问问DeepSeek.md",
-    "source/_posts/12.31就让所有的不愉快，都结束在这一天.md",
-    "source/_posts/12.7我并不是一个胆小的人.md",
-    "source/_posts/9.28笔记.md",
     "source/_posts/10.21时间一去东流水哗哗哗哗哗.md",
     "source/_posts/10.6人生就是潮起又落落落落.md",
     "source/_posts/7.22都是莱姆玩剩下的.md",
@@ -207,7 +171,6 @@
     "source/_posts/7.12忘了这些失望和沮丧才是我的生活的真正面目.md",
     "source/_posts/6.17我不知道我的灵魂飘向了哪里.md",
     "source/_posts/5.14于是我也缄默不语.md",
-    "source/_posts/11.5二十四岁的开头.md",
     "source/_posts/10.14愿望成真了，希望六万年后还能够再见.md",
     "Invalid date.md",
     "2025-02-17.md",
