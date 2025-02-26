@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/2.5适合懒惰J人的日程规划.md",
+                "file": "source/about/index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/2.5适合懒惰J人的日程规划.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/2.5适合懒惰J人的日程规划.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/2.5适合懒惰J人的日程规划.md"
+                "file": "source/about/index.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "f32049c6c5013df4",
   "lastOpenFiles": [
+    "source/_posts/2.5适合懒惰J人的日程规划.md",
     "source/_posts/2.17在未知的恐惧面前，我选择先问问DeepSeek.md",
     "source/_posts/12.31就让所有的不愉快，都结束在这一天.md",
     "source/_posts/12.7我并不是一个胆小的人.md",
     "source/_posts/11.5二十四岁的开头.md",
-    "source/_posts/2.5适合懒惰J人的日程规划.md",
     "source/_posts/9.28笔记.md",
     "source/lives/index.md",
     "source/about/index.md",
