@@ -4,7 +4,13 @@ title: 关于
 ## 关于我
 
 没什么好介绍的，欢迎大家来找我玩！！！
-<br>
+来我的文章下留言，和我交换友链~
+名称：水气掠过  
+介绍：晚饭后，一起散步吧。  
+博客：https://dilutepillow.github.io/  
+头像：https://dilutepillow.github.io/images/logo.png
+
+
 ## 神秘的传送门
 
 [fermionorz](http://fermionorz.github.io/) : 这是一个超人！
