@@ -19,3 +19,8 @@ title: 关于
 [Pi3's Notes](https://blog.pi3.fun/)：记录学习、生活和成长
 [咖啡冰河](https://blog.mysto.cyou/) : 无感而发，随性而谈
 [瓠樽](https://blog.dylanwu.space/) : 今子有五石之瓠，何不慮以為大樽
+[Phytonland](https://phytonland.space/) : 大地之歌
+[昼河万里](https://tothemoonriver.icu/) : 一起去看月亮吧。
+[狐说](https://blog.southfox.me/) : 狐狸反走矣
+[第三夏尔](https://thirdshire.com/) : 认真生活，积极摸鱼
+[锁麟囊](https://www.kylinbag.top/) : 牧童归去横牛背，短笛无腔信口吹
