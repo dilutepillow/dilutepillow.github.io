@@ -24,3 +24,5 @@ title: 关于
 [狐说](https://blog.southfox.me/) : 狐狸反走矣
 [第三夏尔](https://thirdshire.com/) : 认真生活，积极摸鱼
 [锁麟囊](https://www.kylinbag.top/) : 牧童归去横牛背，短笛无腔信口吹
+[春天与阿修罗](https://harushuura.vip/) : 食宇宙尘埃，或吐纳着空气和盐水
+[嘰嘰乞乞](https://www.gigigatgat.ca/) : 但願我靈魂沒有生鏽
