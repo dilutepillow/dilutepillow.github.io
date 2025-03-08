@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e4e8a8178c5ba6bb",
+        "id": "f456d6fb4b70ee7c",
         "type": "tabs",
         "children": [
           {
-            "id": "f32049c6c5013df4",
+            "id": "a2b5b8ebbaee0414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/categories/index.md",
+                "file": "source/about/index.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5444ba2318696a7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/《鹰》.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d97ddb09a57bbc5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/《树影》.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ee1d16b77e5a725e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/《河神的恩惠》.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bf432db6275d580f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/《青春奇幻物语接龙（8号）》.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e1b7847433b4e60b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/《科幻接龙（4号）》.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8c8a6345c73880ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/《豪门骨科接龙（6号）》.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "180608bed54dc213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/《联结》.md",
-                "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/《联结》.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/《联结》.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/《联结》.md"
+                "file": "source/about/index.md"
               }
             }
           }
@@ -231,18 +146,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "180608bed54dc213",
+  "active": "a2b5b8ebbaee0414",
   "lastOpenFiles": [
-    "source/_posts/《豪门骨科接龙（6号）》.md",
-    "source/_posts/《科幻接龙（4号）》.md",
-    "source/_posts/《青春奇幻物语接龙（8号）》.md",
-    "source/_posts/《河神的恩惠》.md",
-    "source/_posts/《树影》.md",
+    "source/categories/index.md",
     "source/_posts/《鹰》.md",
+    "source/_posts/《树影》.md",
+    "source/_posts/《河神的恩惠》.md",
+    "source/_posts/《青春奇幻物语接龙（8号）》.md",
+    "source/_posts/《科幻接龙（4号）》.md",
+    "source/_posts/《豪门骨科接龙（6号）》.md",
+    "source/about/index.md",
+    "source/tags/index.md",
+    "source/search/index.md",
+    "source/lives/index.md",
     "source/_posts/《联结》.md",
     "未命名",
-    "source/about/index.md",
-    "source/categories/index.md",
     "source/_posts/2.5适合懒惰J人的日程规划.md",
     "source/_posts/2.17在未知的恐惧面前，我选择先问问DeepSeek.md",
     "source/_posts/12.7我并不是一个胆小的人.md",
@@ -257,9 +175,6 @@
     "source/_posts/7.5演唱会-梦境清醒了，生活继续.md",
     "source/_posts/6.17我不知道我的灵魂飘向了哪里.md",
     "source/_posts/5.30明明没有什么特别的事情.md",
-    "source/_posts/5.14于是我也缄默不语.md",
-    "source/tags/index.md",
-    "source/lives/index.md",
     "未命名.canvas",
     "source/_posts/图片测试/img-20240930132042925.png",
     "source/_posts/图片测试"

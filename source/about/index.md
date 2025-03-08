@@ -3,7 +3,7 @@ title: 关于
 ---
 ## 关于我
 
-没什么好介绍的，欢迎大家来找我玩！！！
+欢迎大家来找我玩！！！
 来我的文章下留言，和我交换友链~
 名称：水气掠过  
 介绍：晚饭后，一起散步吧。  
@@ -26,3 +26,6 @@ title: 关于
 [锁麟囊](https://www.kylinbag.top/) : 牧童归去横牛背，短笛无腔信口吹
 [春天与阿修罗](https://harushuura.vip/) : 食宇宙尘埃，或吐纳着空气和盐水
 [嘰嘰乞乞](https://www.gigigatgat.ca/) : 但願我靈魂沒有生鏽
+[滩涂石](https://bcyh.one/) : 大地孑然一身 至今孑然一身
+[眠于水月间](https://www.sleepymoon.cyou) : - 月光冷寂，恍若一场死眠。-
+[一支咏叹调](https://turquoise.one/) : 一位普通美女的小窝
