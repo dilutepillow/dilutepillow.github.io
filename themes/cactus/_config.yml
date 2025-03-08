@@ -16,6 +16,7 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
+  昙花: /categories/
   我在: /lives/
   about: /about/
   search: /search/
@@ -52,7 +53,7 @@ social_links:
 
 # Customize the overview with displaying a tagcloud on the index page.
 # Options: https://hexo.io/docs/helpers.html#tagcloud
-tags_overview: true
+tags_overview: false
 
 # Customize the overview with the most recent blog posts on the index page.
 # Options:
