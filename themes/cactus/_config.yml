@@ -16,8 +16,9 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
-  昙花: /categories/
-  我在: /lives/
+  归档: /categories/
+  小记: https://dilutepillow.github.io/categories/小记/
+  我在: https://dilutepillow.github.io/categories/我在/
   about: /about/
   search: /search/
 #  projects: http://github.com/probberechts
