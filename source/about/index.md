@@ -31,3 +31,5 @@ title: 关于
 [一支咏叹调](https://turquoise.one/) : 一位普通美女的小窝
 [枕石](https://zhen-shi.github.io/) :  鲸饮未吞海，剑气已横秋。
 [匣](https://kiokumo.vip/) :  Please be more specific.
+[整点内啡肽](https://im.happytoo.cyou/) :  管它洪水滔天，先过周末。
+[夜航南飞](https://banshou-air.netlify.app/) :  The world is beautiful. Let me come through it to you.
