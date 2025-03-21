@@ -16,7 +16,6 @@ direction: ltr
 nav:
   home: /
   articles: /archives/
-  归档: /categories/
   小记: https://dilutepillow.github.io/categories/小记/
   我在: https://dilutepillow.github.io/categories/我在/
   about: /about/
