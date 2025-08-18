@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d286df29994ef1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/《虫》.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/《栏杆》.md",
+                "file": "source/_posts/《虫》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/《栏杆》.md",
+                "file": "source/_posts/《虫》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/《栏杆》.md"
+                "file": "source/_posts/《虫》.md"
               }
             }
           }
@@ -159,16 +171,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f1fb09d3ced88ecb",
+  "active": "d286df29994ef1c5",
   "lastOpenFiles": [
+    "source/_posts/《栏杆》.md",
+    "source/_posts/《虫》.md",
+    "source/_posts/《科幻接龙（4号）》.md",
     "source/_posts/《联结》.md",
     "source/_posts/《鹰》.md",
     "source/_posts/《豪门骨科接龙（6号）》.md",
-    "source/_posts/《科幻接龙（4号）》.md",
     "source/_posts/《青春奇幻物语接龙（8号）》.md",
     "source/_posts/《河神的恩惠》.md",
     "source/_posts/《树影》.md",
-    "source/_posts/《栏杆》.md",
     "source/_posts/7.21普通的小猫被普通的我爱着.md",
     "source/_posts/5.6浅浅淡淡地挂在清清蓝蓝的半空中.md",
     "source/_posts/5.23海浪一波一波轻柔地向上推.md",
@@ -186,7 +199,6 @@
     "source/_posts/5.1事事发生在眼前，因此只看见眼前.md",
     "source/_posts/12.31就让所有的不愉快，都结束在这一天.md",
     "source/_posts/12.7我并不是一个胆小的人.md",
-    "source/_posts/11.5二十四岁的开头.md",
     "未命名",
     "未命名.canvas",
     "source/_posts/图片测试/img-20240930132042925.png",
