@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "177cd5d703d37e7c",
+        "id": "65ea8450ce9f99f3",
         "type": "tabs",
         "children": [
           {
-            "id": "5d8255b88242a87d",
+            "id": "fb86e5c6524da84d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/7.21普通的小猫被普通的我爱着.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1fb09d3ced88ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/短篇小说《栏杆》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d286df29994ef1c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/短篇小说《栏杆》.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edaed5212f36d03b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/7.21普通的小猫被普通的我爱着.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91605bf70392679e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/11.4我的确是一个很迟钝的人.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/11.4我的确是一个很迟钝的人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/11.4我的确是一个很迟钝的人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "source/_posts/11.4我的确是一个很迟钝的人.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,13 +138,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "91605bf70392679e",
+  "active": "fb86e5c6524da84d",
   "lastOpenFiles": [
-    "source/_posts/5.6浅浅淡淡地挂在清清蓝蓝的半空中.md",
-    "source/_posts/11.4我的确是一个很迟钝的人.md",
+    "source/_posts/短篇小说《栏杆》.md",
     "source/_posts/7.21普通的小猫被普通的我爱着.md",
-    "source/_posts/3.31开启懒洋洋的生活了.md",
     "source/_posts/短短小说《虫》.md",
+    "source/_posts/11.4我的确是一个很迟钝的人.md",
+    "source/_posts/5.6浅浅淡淡地挂在清清蓝蓝的半空中.md",
+    "source/_posts/3.31开启懒洋洋的生活了.md",
     "未命名",
     "source/_posts/短短小说《金鱼》.md",
     "source/_posts/短短小说《树影》.md",
@@ -211,7 +155,6 @@
     "source/_posts/短篇小说《联结》.md",
     "source/_posts/小说接龙《豪门骨科（6号）》.md",
     "source/_posts/小说接龙《科幻（4号）》.md",
-    "source/_posts/短篇小说《栏杆》.md",
     "source/about/index.md",
     "source/search/index.md",
     "source/lives/index.md",
