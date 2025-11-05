@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/短短小说《虫》.md",
+                "file": "source/_posts/7.21普通的小猫被普通的我爱着.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91605bf70392679e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/11.4我的确是一个很迟钝的人.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/短短小说《虫》.md",
+                "file": "source/_posts/11.4我的确是一个很迟钝的人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/短短小说《虫》.md",
+                "file": "source/_posts/11.4我的确是一个很迟钝的人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/短短小说《虫》.md"
+                "file": "source/_posts/11.4我的确是一个很迟钝的人.md"
               }
             }
           }
@@ -183,11 +195,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "edaed5212f36d03b",
+  "active": "91605bf70392679e",
   "lastOpenFiles": [
+    "source/_posts/5.6浅浅淡淡地挂在清清蓝蓝的半空中.md",
+    "source/_posts/11.4我的确是一个很迟钝的人.md",
+    "source/_posts/7.21普通的小猫被普通的我爱着.md",
+    "source/_posts/3.31开启懒洋洋的生活了.md",
+    "source/_posts/短短小说《虫》.md",
+    "未命名",
     "source/_posts/短短小说《金鱼》.md",
     "source/_posts/短短小说《树影》.md",
-    "source/_posts/短短小说《虫》.md",
     "source/_posts/小说接龙《青春奇幻物语（8号）》.md",
     "source/_posts/短篇小说《河神的恩惠》.md",
     "source/_posts/短篇小说《鹰》.md",
@@ -199,19 +216,14 @@
     "source/search/index.md",
     "source/lives/index.md",
     "source/categories/index.md",
-    "source/_posts/7.21普通的小猫被普通的我爱着.md",
-    "source/_posts/5.6浅浅淡淡地挂在清清蓝蓝的半空中.md",
     "source/_posts/5.23海浪一波一波轻柔地向上推.md",
     "source/_posts/3.21希望缘分能让我们有一天再会.md",
     "source/_posts/4.7怎样减缓时间流逝的感知速度.md",
-    "source/_posts/3.31开启懒洋洋的生活了.md",
     "source/_posts/2.5适合懒惰J人的日程规划.md",
     "source/_posts/2.17在未知的恐惧面前，我选择先问问DeepSeek.md",
     "source/_posts/7.22都是莱姆玩剩下的.md",
     "source/_posts/7.12忘了这些失望和沮丧才是我的生活的真正面目.md",
     "source/_posts/7.5演唱会-梦境清醒了，生活继续.md",
-    "source/_posts/6.17我不知道我的灵魂飘向了哪里.md",
-    "未命名",
     "未命名.canvas",
     "source/_posts/图片测试/img-20240930132042925.png",
     "source/_posts/图片测试"
