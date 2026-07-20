@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/6.17就把我们留在时间之外吧。.md",
+                "file": "source/about/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/6.17就把我们留在时间之外吧。.md",
+                "file": "source/about/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/6.17就把我们留在时间之外吧。.md",
+                "file": "source/about/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/6.17就把我们留在时间之外吧。.md"
+                "file": "source/about/index.md"
               }
             }
           }
@@ -196,9 +196,9 @@
   },
   "active": "630b34f2309c3978",
   "lastOpenFiles": [
+    "source/_posts/6.17就把我们留在时间之外吧。.md",
     "source/_posts/11.4我的确是一个很迟钝的人.md",
     "source/_posts/12.21年尾是柔软的毛绒的快速划过的尾巴.md",
-    "source/_posts/6.17就把我们留在时间之外吧。.md",
     "source/_posts/3.13吃粉要加肉沫和香葱，再把香葱挑出来.md",
     "source/_posts/1.9桂林-阳朔游记.md",
     "未命名 1.canvas",
